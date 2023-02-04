@@ -1,0 +1,44 @@
+/* signup page */
+#signuppg {
+    background: url(./images/bank\ sign\ up.jpg);
+    background-size: cover;
+}
+
+#mainbox {
+    margin-top: 6rem;
+}
+
+/* login page  */
+
+#loginpg {
+    background: url(images/login.png);
+    background-size: cover;
+   
+    
+}
+
+#mainbox2 {
+    margin-top: 6rem;
+    margin-right: 5rem;
+}
+
+/* a:hover {
+    color: rgb(124, 170, 255);
+} */
+
+/* home page  */
+#homepg {
+    background: url(images/welcome.jpg);
+    background-size: cover;
+}
+
+#homebg {
+    width: 100%;
+    height: 47.9rem;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-top: 8rem;
+    padding-left: 11rem;
+}
+.bttnpos{
+    margin-top: 5rem;
+}
